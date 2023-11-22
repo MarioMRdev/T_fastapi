@@ -2,6 +2,7 @@ from typing import Union
 from fastapi import FastAPI
 
 from models.item_model import Item
+
 # Creación de una aplicación en FastAPI: 
 
 app = FastAPI()
